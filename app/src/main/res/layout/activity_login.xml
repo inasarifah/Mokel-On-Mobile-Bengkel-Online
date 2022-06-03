@@ -25,7 +25,7 @@
         android:background="@drawable/rounded_edge"
         android:orientation="vertical"
         android:hint="@string/username"
-        style="@style/tv"
+        style="@style/ti"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@id/logo"
         app:layout_constraintStart_toStartOf="parent"
@@ -33,9 +33,7 @@
         app:layout_constraintVertical_bias="0.272">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="345dp"
-            android:layout_height="45dp"
-            android:layout_gravity="center_horizontal"
+            style="@style/et"
             android:background="@drawable/rounded_edge" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -43,7 +41,7 @@
         android:id="@+id/password"
         android:layout_marginTop="5dp"
         android:hint="@string/password"
-        style="@style/tv"
+        style="@style/ti"
         android:background="@drawable/rounded_edge"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -53,9 +51,7 @@
         app:layout_constraintVertical_bias="0.0">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="345dp"
-            android:layout_height="45dp"
-            android:layout_gravity="center_horizontal"
+            style="@style/et"
             android:background="@drawable/rounded_edge" />
     </com.google.android.material.textfield.TextInputLayout>
 
