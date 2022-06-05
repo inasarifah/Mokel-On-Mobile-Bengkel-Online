@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MokelOn">
         <activity
-            android:name=".RegistActivity"
+            android:name=".register.RegistActivity"
             android:exported="false" />
         <activity
             android:name=".home.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".Login.LoginActivity"
             android:exported="false" />
         <activity
             android:name=".SplashScreen.MainActivity"

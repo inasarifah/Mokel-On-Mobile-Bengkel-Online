@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.example.mokel_on.LoginActivity
+import com.example.mokel_on.Login.LoginActivity
 import com.example.mokel_on.R
 
 class MainActivity : AppCompatActivity() {

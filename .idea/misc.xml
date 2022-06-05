@@ -3,14 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.387" />
+        <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/drawable/rounded_edge.xml" value="0.387" />
         <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/layout/activity_login.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/layout/activity_main.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Claren clarichie/Documents/BANGKIT/Capstone/Mokel-On-Mobile-Bengkel-Online/file2/app/src/main/res/layout/activity_regist.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/LENOVO/OneDrive - student.gunadarma.ac.id/BANGKIT/Project/MokelOn/app/src/main/res/drawable/rounded_edge.xml" value="0.172" />
         <entry key="..\:/Users/LENOVO/OneDrive - student.gunadarma.ac.id/BANGKIT/Project/MokelOn/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/Users/LENOVO/OneDrive - student.gunadarma.ac.id/BANGKIT/Project/MokelOn/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/LENOVO/OneDrive - student.gunadarma.ac.id/BANGKIT/Project/MokelOn/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/LENOVO/OneDrive - student.gunadarma.ac.id/BANGKIT/Project/MokelOn/app/src/main/res/layout/activity_regist.xml" value="0.18" />
       </map>
     </option>
   </component>
